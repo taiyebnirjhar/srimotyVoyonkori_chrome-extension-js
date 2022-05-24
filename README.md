@@ -1,4 +1,4 @@
 #100 project challenge : 5
 # srimotyVoyonkori_chrome-extension-js
 
-chrome extension will change every img  and p into a single img & 'I AM SORRY LUV  '  
+it's a fun chrome extension which  will change every img and p tags into you're defince image & text 
